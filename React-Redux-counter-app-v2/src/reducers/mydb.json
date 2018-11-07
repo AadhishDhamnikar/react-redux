@@ -1,0 +1,23 @@
+[
+	{
+		"Name": "Priyanka C",
+		"Age": 2,
+		"Gender": "F",
+		"Address":"Pune",
+		"Source":"./images/seven.jpg"
+	},
+    {
+		"Name": "Smruti Lale",
+		"Age": 24,
+		"Gender": "F",
+		"Address":"Pune Rural",
+		"Source":"./images/seven.jpg"
+	},
+    {
+		"Name": "Aadhish dhamnikar",
+		"Age": 23,
+		"Gender": "M",
+		"Address":"Singapore",
+		"Source":"./images/seven.jpg"
+	}
+]
