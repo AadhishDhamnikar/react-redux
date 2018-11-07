@@ -1,0 +1,39 @@
+
+.header-con{
+    text-align: center;
+    background-color: #0ed8c5;
+    font-style:italic;
+    font-size: 40px;
+    background-size: contain;
+    width: 1407px;
+    height: 50px;
+}
+.nav-bar{
+    width:600px;
+    margin: 0 auto;
+    color: white;
+}
+.nav-bar a{
+    display: block;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: purple;
+    color: #fff;
+    border-radius: 50%;
+    float: left;
+    margin: 10px 15px;
+    font-size: 20px;
+}
+.bag-img{
+    border: 1px solid #000;
+    border-block-end: 100px;
+    background-repeat: no-repeat;
+    background-image: url('./img.jpg');
+    background-size: contain;
+    width: 1405x;
+    height: 790px;  
+}
+.align-reg{
+    text-align: center;
+}
